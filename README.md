@@ -1,5 +1,5 @@
-# Classification of 1994 Census Income Data
-### Classification of 1994 Census Income Data
+# Predicting income using 1994 Census Data
+### Predicting income using 1994 Census Data
 
 ## Abstract
 
